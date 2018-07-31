@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="deal_image_height">160dp</dimen>
+    <dimen name="deal_name_min_height">36dp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="textsize_medium">20sp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+</resources>

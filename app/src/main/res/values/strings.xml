@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Home Test</string>
+    <string name="imgthumbnail">imgThumbnail</string>
+    <string name="end_in">Kết thúc sau:</string>
+</resources>
